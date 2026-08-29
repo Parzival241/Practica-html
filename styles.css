@@ -1,0 +1,23 @@
+body {
+    background-color:black;
+    color: white;
+    text-justify: auto;
+    font-size: 18px;
+}
+h1,h2,h3 {
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+a {
+    color:#66b2ff
+}
+
+a:visited{
+    color: #80d080 
+}
