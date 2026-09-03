@@ -19,3 +19,10 @@ a {
 a:visited{
     color: #80d080 
 }
+
+.formulario{
+    padding:10%;
+    border: 5%;
+    margin: 5%;
+    display: flex;
+}
